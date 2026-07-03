@@ -1,4 +1,4 @@
-**All of my projects are found in the [FireML-Dev](https://github.com/FireML-Dev) org!**
+**All of my personal projects are found in the [FireML-Dev](https://github.com/FireML-Dev) org!**
 
 Developer of [EvenMoreFish](https://github.com/EvenMoreFish/EvenMoreFish)
 
